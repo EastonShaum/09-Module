@@ -56,7 +56,7 @@ function renderDeployedLinkSection(data) {
   if (data.confirmDeployed && data.deployedLink){
     return `Link for the deployed application: [${data.title}](${data.deployedLink})`;;
   } else {
-    return '';
+    return `This project is not yet deployed`;
     // Showing up as box 
   }
 }

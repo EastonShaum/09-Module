@@ -91,7 +91,7 @@ const questions = [
     {
         type: 'input',
         name: 'userNeedToKnow',
-        message: 'What information does the user need to know about the repo?',
+        message: 'What information does the user need to know about how to use the repo?',
     },
     {
         type: 'input',
@@ -100,7 +100,7 @@ const questions = [
     }
   ];
 
-
+// Hard code for testing
 //   const answers = {
 //         github: "EastonShaum",
     
