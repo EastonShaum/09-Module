@@ -109,7 +109,7 @@ function generateMarkdown(data) {
 
   ## Contributing
 
-  ${data.userContributingInfo}.
+  ${data.userContributingInfo}
   See the [Contributor Covenant](https://www.contributor-covenant.org/) for more information on how you can contribute. 
 
 `;

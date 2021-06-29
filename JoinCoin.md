@@ -2,9 +2,9 @@
 
   ## Description 
 
-  Display cryptocurrencies
+  Display cryptocurrency data
 
-  Link for the deployed application: [JoinCoin](https://eastonshaum.github.io/Join-Coin/)
+  This project is not yet deployed
 
   ## Table of Contents 
 
@@ -16,12 +16,12 @@
 
   ## Installation
 
-  In order to install this project on your own system you would need to enter the following in your command line: npm i
+  In order to install this project on your own system you would need to enter the following in your command line: npm i, npm i inquirer
 
 
   ## Usage 
 
-  nothing
+  As you run the site you can search for different cryptocurrencies.
 
   ## Tests
 
@@ -30,7 +30,7 @@
   ## Credits
 
   Github: [EastonShaum](https://github.com/EastonShaum)
-  Email:  EastonShaum@gmail.com
+  Email:  eastonshaum@gmail.com
 
   ## License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -44,6 +44,6 @@
 
   ## Contributing
 
-  nada.
+  For now you can not contribute..
   See the [Contributor Covenant](https://www.contributor-covenant.org/) for more information on how you can contribute. 
 
